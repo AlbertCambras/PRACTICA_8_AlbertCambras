@@ -45,6 +45,8 @@ Hasta este punto tenemos guardado en el buffer lo que hemos enviado y nuevamente
   He estado un rato pensando que funciones debería usar y como usarlas pero al poco tiempo he sabido como aplicarlas y no he tenido mayores problemas.
   Algunos compañeros los han tenido a causa del ruido y cuando desconectaban el cortocircuito hecho entre la transmisión y la recepción del UART2 seguían recibiendo datos cuando no debería pasar. Lo dicho, yo no me he encontrado con problemas de ese estilo por lo que ha sido bastante sencillo llegar al resultado final.
 
+Me gustaría haber podido hacer los otros ejercicios ya que me resultaron interesantes, pero me di cuenta tarde de los componentes que hacían falta y no me llegaron a tiempo, de todas formas me lo reservo para proyectos futuros el aprender como funcionan sus librerías y los componentes en si.
+
   ## Salidas y entradas por consola
   En esta práctica, la salida por consola es la misma que la de la entrada por todo lo explicado anteriormente:
   ### Salidas  
@@ -52,5 +54,5 @@ Hasta este punto tenemos guardado en el buffer lo que hemos enviado y nuevamente
   Inicializando...�Esto es una prueba de la practica 8.
 
   ### Entradas  
-  
+
   Esto es una prueba de la practica 8.
